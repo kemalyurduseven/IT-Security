@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2R3BGas6EWYj2QybyQdxQhtf+cVgDofu1UvDmdpVawcq4e8RUd9ZBHkR3I6pziQj7yq3rrpEHT9ML73LilGPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEGION\\Masaüstü\\Cyber\\Test\\Ransomware\\Ransomware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\sharpaescrypt.dll\\1.3.4\\sharpaescrypt.dll.1.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
